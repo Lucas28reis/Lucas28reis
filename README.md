@@ -21,7 +21,8 @@
     <img align="center" alt="Seaborn"    src="https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge&logo=seaborn&logoColor=white">
     <img align="center" alt="Sklearn"    src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img align="center" alt="pyLDAVis"   src="https://img.shields.io/badge/pyLDAVis-1D3557?style=for-the-badge&logoColor=white">
-    <img aling="center" alt="Python"     src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img aling="center" alt="SQL"        src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img aling="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img align="center" alt="Python"     src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="SQL"        src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </div>
+
