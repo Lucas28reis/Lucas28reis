@@ -20,4 +20,12 @@
     <img aling="center" alt="SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img aling="center" alt="SQL" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img aling="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img align="center" alt="Mlflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
+    <img align="center" alt="Sklearn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+    <img align="center" alt="Numpy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0769AD?style=for-the-badge&logo=matplotlib&logoColor=white">
+    <img align="center" alt="Seaborn" src="https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge&logo=seaborn&logoColor=white">
+    <img align="center" alt="Sklearn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img align="center" alt="pyLDAVis" src="https://img.shields.io/badge/pyLDAVis-1D3557?style=for-the-badge&logoColor=white">
 </div>
