@@ -26,9 +26,9 @@
 
 ### 🧠 Sobre Mim
 
-Sou **Cientista da Computação** com pós-graduação em **Machine Learning**, atuando como **ML Engineer** na construção de modelos preditivos, agentes inteligentes e pipelines de dados em produção.
+**Cientista da Computação** atuando como **ML Engineer** na construção de modelos preditivos, agentes inteligentes e pipelines de dados em produção.
 
-- 🚀 **Criador da TaxSee:** Desenvolvo sistemas e soluções inteligentes voltadas para a **área tributária**, unindo engenharia de software, automação e IA para simplificar regras fiscais complexas.
+- 🚀 **Criador da TaxSee:** Sistema desenvolvido para a **área tributária**, unindo engenharia de software, automação e IA para simplificar regras fiscais complexas.
 - 🤖 **Foco Técnico:** Machine Learning Engineering, MLOps, Agentes de IA (LLMs), Processamento de Linguagem Natural (NLP) e Séries Temporais (Forecasting).
 - 📊 **Filosofia:** Dados bem estruturados e modelos auditáveis são a base para produtos escaláveis e decisões estratégicas seguras.
 
